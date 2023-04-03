@@ -1,0 +1,10 @@
+img {
+    display: block;
+    object-fit: contain;
+    height: 300px;
+    width: 300px;
+}
+
+header {
+    background-color: aquamarine;
+}
