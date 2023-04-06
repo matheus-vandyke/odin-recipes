@@ -8,3 +8,20 @@ img {
 header {
     background-color: aquamarine;
 }
+
+.div1 {
+    background-color: lightskyblue;
+}
+
+ul {
+    background-color: lightskyblue;
+}
+
+ol {
+    background-color: lightpink;
+}
+
+h3, p, h2 {
+    background-color: red;
+    color: white;
+}
